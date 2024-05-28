@@ -18,7 +18,7 @@ include any significant part of the corresponding solution.
 ## Authorization
 To become a collaborator, create a pull request
 including your name in the comment
-or [contact me](https://t.me/boris_a_z)
+or [contact me](https://t.me/boris_a_z).
 
 
 ## Moderation
