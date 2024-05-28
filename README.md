@@ -15,6 +15,12 @@ no problem should become trivial after your correction, as well as no statement 
 include any significant part of the corresponding solution.
 
 
+## Authorization
+To become a collaborator, create a pull request
+including your name in the comment
+or [contact me](https://t.me/boris_a_z)
+
+
 ## Moderation
 I have the backup of the homeworks, and *git* sees who did what,
 so any commits welcome.
